@@ -2,7 +2,7 @@
 
 > This project is a solution to a problem solved in **4 different ways** to understand the concept of repetition better. It calculates the sum of odd numbers up to a user-entered value.
 
-**Example:** $N = 5$ → $(5, 3, 1)$ → **Sum = 9**
+**Example:** N = 5 → (5, 3, 1) → *Sum = 9*
 
 ---
 
